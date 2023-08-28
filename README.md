@@ -1,19 +1,55 @@
-Follow these steps if you download BIONHTECH.rar file.
+# BIONHTECH Installation and Configuration Guide
 
-1. Install lattest version of Python and related libraries.
-2. Open BIONHTECH in any code editor. 
-3. Set the location of variable(line # 1112) base_file where the icon folder is located. 
-4. Save the BIONHTECH and Run.
+## For BIONHTECH.rar File
 
+### Prerequisites
+1. **Install the Latest Version of Python and Related Libraries:** Ensure you have Python installed on your system, along with the necessary libraries.
 
-Follow these steps if you download BIONHTECH.exe
+### Installation and Configuration
 
-1. Install lattest version of Python and related libraries.
-2. Install BIONHTECH.exe
-3. Open BIONHTECH in any code editor.
-4. Set the location of variable(line # 1112) base_file where the icon folder is located. 
-5. Save the BIONHTECH and Run.
+1. **Download and Extract BIONHTECH.rar:**
+   - Download the BIONHTECH.rar file.
+   - Extract its contents to a directory of your choice.
 
-Mac / linix users follow these steps.
-1. MAC users  https://recoverit.wondershare.com/mac-tips/how-to-open-and-run-exe-files-on-mac.html
-2. Linix users  https://www.techwalla.com/articles/how-to-run-an-exe-file-in-linux
+2. **Open BIONHTECH in Any Code Editor:**
+   - Launch your preferred code editor.
+
+3. **Set the Location of Variable (Line #1112) base_file:**
+   - Navigate to line #1112 in the BIONHTECH code.
+   - Set the `base_file` variable to specify the location of the icon folder.
+
+4. **Save and Run BIONHTECH:**
+   - Save your changes in the code editor.
+   - Run BIONHTECH to execute your customized configuration.
+
+## For BIONHTECH.exe File
+
+### Prerequisites
+1. **Install the Latest Version of Python and Related Libraries:** Ensure you have Python installed on your system, along with the necessary libraries.
+
+### Installation and Configuration
+
+1. **Install BIONHTECH.exe:**
+   - Download the BIONHTECH.exe installer.
+   - Run the installer and follow the on-screen instructions to complete the installation.
+
+2. **Open BIONHTECH in Any Code Editor:**
+   - Launch your preferred code editor.
+
+3. **Set the Location of Variable (Line #1112) base_file:**
+   - Navigate to line #1112 in the BIONHTECH code.
+   - Set the `base_file` variable to specify the location of the icon folder.
+
+4. **Save and Run BIONHTECH:**
+   - Save your changes in the code editor.
+   - Run BIONHTECH to execute your customized configuration.
+
+## For Mac and Linux Users
+
+1. **Mac Users:**
+   - Follow this guide on how to open and run .exe files on Mac: [How to Open and Run .exe Files on Mac](https://recoverit.wondershare.com/mac-tips/how-to-open-and-run-exe-files-on-mac.html)
+
+2. **Linux Users:**
+   - Follow this guide on how to run .exe files in Linux: [How to Run an .exe File in Linux](https://www.techwalla.com/articles/how-to-run-an-exe-file-in-linux)
+
+By following these steps, you can successfully install, configure, and run BIONHTECH on your system. If you encounter any issues or have questions, feel free to reach out for assistance.
