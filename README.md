@@ -16,7 +16,7 @@
 
 3. **Set the Location of Variable (Line #1112) base_file:**
    - Navigate to line #1112 in the BIONHTECH code.
-   - Set the `base_file` variable to specify the location of the icon folder.
+   - Set the `base_file` variable to specify the location of the icons folder (icons folder is prsent in .zip file).
 
 4. **Save and Run BIONHTECH:**
    - Save your changes in the code editor.
@@ -38,7 +38,7 @@
 
 3. **Set the Location of Variable (Line #1112) base_file:**
    - Navigate to line #1112 in the BIONHTECH code.
-   - Set the `base_file` variable to specify the location of the icon folder.
+   - Set the `base_file` variable to specify the location of the icons folder (icons folder is prsent in .zip file.
 
 4. **Save and Run BIONHTECH:**
    - Save your changes in the code editor.
